@@ -1,3 +1,5 @@
 /.venv
 
 /eye_disease_detection_dataset
+
+/classified_images_new
